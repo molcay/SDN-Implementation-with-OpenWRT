@@ -1,13 +1,9 @@
 # SDN-Implementation-with-OpenWRT
 CENG 4541 Advanced Network Report Steps
 
-
-To see the steps please visit [Wiki page](https://github.com/molcay/SDN-Implementation-with-OpenWRT/wiki) of this repository.
-
-
-You can reach related wiki post under NetSecLab with [this link](http://wiki.netseclab.mu.edu.tr/index.php?title=Software-Defined_Network_and_Implementation).
-
-You can reach related report with [this link]().
+* To see the steps please visit [Wiki page](https://github.com/molcay/SDN-Implementation-with-OpenWRT/wiki) of this repository.
+* You can reach related wiki post under NetSecLab with [this link](http://wiki.netseclab.mu.edu.tr/index.php?title=Software-Defined_Network_and_Implementation).
+* You can reach related report with [this link]().
 
 ---
 
